@@ -1,6 +1,6 @@
 To run the experiment using the batch runner make sure that:
-a) the experiment file (*.opensesame, for this example: 'study.opensesame')
-b) the filepool (__pool__ directory), and
+a) the experiment file (*.opensesame, hardcoded default is 'study.opensesame', feel free to change the .bat file to fit your needs)
+b) the filepool (__pool__ directory; see http://osdoc.cogsci.nl/miscellaneous/git/#use-a-static-file-pool-folder), and
 c) the batch runner file (OSrunner.bat)
 are all in one folder.
 
